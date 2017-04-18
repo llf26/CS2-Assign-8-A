@@ -1,10 +1,10 @@
 /*
-   COPYRIGHT (C) 2017 Student Name (UANET ID ) All rights reserved.
+   COPYRIGHT (C) 2017 Student Name (llf26) All rights reserved.
    CS assignment
-   Author.  Student Name
-            zippy@zips.uakron.edu
+   Author.  Larry Fritz
+            llf26@zips.uakron.edu
    Version. 1.01 09.09.2017
-   Purpose: This program ...
+   Purpose: This program implements a binary search tree, with a search function and a depth function.
 */
 #ifndef TREE_HPP
 #define TREE_HPP
