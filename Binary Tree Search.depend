@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492473028 source:c:\users\larry\documents\ua classes\cs2\binary tree search\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tree.hpp"
+
+1492474285 c:\users\larry\documents\ua classes\cs2\binary tree search\tree.hpp
+	<iostream>
+	<algorithm>
+	"treenode.hpp"
+
+1492470759 c:\users\larry\documents\ua classes\cs2\binary tree search\include\treenode.hpp
+
+1492472470 source:c:\users\larry\documents\ua classes\cs2\binary tree search\src\treenode.cpp
+	"treenode.hpp"
+
